@@ -26,4 +26,7 @@
 
 **bolded text**   
 *italicized text*   
-~~BAIDU.COM~~
+~~BAIDU.COM~~  
+Quote here.
+>
+> -- <cite>Benjamin Franklin</cite>
