@@ -12,24 +12,26 @@
 ***
 
 
+
+
+1. one  
 ```C++
 #include  <iostream>
     int main(void)
     {
         cout<<"Hello world";
     }
-```
-
-1. one
-2. two
-3. three
-
-**bolded text**   
+```  
+2. two  
+3. **bolded text**   
 *italicized text*   
 ~~BAIDU.COM~~  
 Quote here.
 >
-> -- <cite>Benjamin Franklin</cite>
+> -- <cite>Benjamin Franklin</cite> 
+3. three
+
+ 
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
